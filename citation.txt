@@ -1,0 +1,9 @@
+@article{REPO-015,
+    author = "Salloum, Salman and Huang, Joshua Zhexue and He, Yulin",
+    journal = "IEEE Transactions on Industrial Informatics",
+    number = "11",
+    pages = "5846-5854",
+    title = "{Random Sample Partition: A Distributed Data Model for Big Data Analysis}",
+    volume = "15",
+    year = "2019"
+}
